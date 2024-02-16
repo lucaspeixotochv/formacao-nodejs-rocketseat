@@ -1,0 +1,10 @@
+# Dependencies
+/node_modues
+
+# Environment variables
+.env
+.env.test
+
+# Database
+/db/app.db
+/db/test.db
